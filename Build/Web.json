@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
-"productName": "Paneles Solares",
-"productVersion": "0.1",
+"productName": "Panales Solares",
+"productVersion": "1.0",
 "dataUrl": "Web.data.unityweb",
 "wasmCodeUrl": "Web.wasm.code.unityweb",
 "wasmFrameworkUrl": "Web.wasm.framework.unityweb",
